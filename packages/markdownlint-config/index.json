@@ -26,6 +26,7 @@
         "SCSS",
         "HTTP",
         "HTTPS",
+        "https",
         "WebSocket",
         "ECMAScript",
         "ECMAScript 2015",
