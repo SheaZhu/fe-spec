@@ -1,6 +1,6 @@
 {
   "name": "fe-markdownlint-config",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "markdownlint 文档规范",
   "author": "Shea",
   "homepage": "https://github.com/SheaZhu/fe-spec#readme",
