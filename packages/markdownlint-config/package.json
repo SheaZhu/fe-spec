@@ -1,6 +1,6 @@
 {
   "name": "fe-markdownlint-config",
-  "version": "0.3.4",
+  "version": "0.3.3",
   "description": "markdownlint 文档规范",
   "author": "Shea",
   "homepage": "https://github.com/SheaZhu/fe-spec#readme",
@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/SheaZhu/fe-spec/issues"
   },
-  "gitHead": "a26a1b64aca9aa240a8543b95aa659e40fd1c979"
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "gitHead": "ef39b4e46f9750b65cca8395910352302ea07797"
 }
