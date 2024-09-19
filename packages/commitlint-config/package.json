@@ -6,9 +6,6 @@
   "homepage": "https://github.com/SheaZhu/fe-spec#readme",
   "license": "ISC",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SheaZhu/fe-spec.git"
@@ -19,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/SheaZhu/fe-spec/issues"
   },
-  "gitHead": "0af31ac534db46f604d74f2472cfd41492441a3f"
+  "gitHead": "ef39b4e46f9750b65cca8395910352302ea07797"
 }

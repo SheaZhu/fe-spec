@@ -10,11 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/SheaZhu/fe-spec.git"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
-  },
   "bugs": {
     "url": "https://github.com/SheaZhu/fe-spec/issues"
   },
-  "gitHead": "0af31ac534db46f604d74f2472cfd41492441a3f"
+  "gitHead": "ef39b4e46f9750b65cca8395910352302ea07797"
 }
