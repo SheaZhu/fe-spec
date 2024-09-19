@@ -17,7 +17,8 @@
     "url": "https://github.com/SheaZhu/fe-spec/issues"
   },
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "gitHead": "a26a1b64aca9aa240a8543b95aa659e40fd1c979"
 }
