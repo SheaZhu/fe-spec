@@ -1,0 +1,38 @@
+{
+  "name": "commitlint-config",
+  "private": true,
+  "description": "前端编码规范工程化",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "prepare": "husky install",
+    "init": "pnpm install",
+    "clean": "lerna clean && rm -rf node_modules",
+    "test": "lerna run test",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "publish": "lerna publish",
+    "lint": "markdownlint README.md",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "author": "shea",
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "8.0.0"
+  },
+  "devDependencies": {
+    "lerna": "^6.6.2",
+    "husky": "9.1.6",
+    "markdownlint":"0.35.0",
+    "markdownlint-cli":"0.41.0",
+    "@commitlint/cli":"19.5.0",
+    "vue": "3.5.6",
+    "vuepress": "^1.9.9",
+    "@vuepress/bundler-vite": "2.0.0-rc.7",
+    "@vuepress/theme-default": "1.9.10"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}

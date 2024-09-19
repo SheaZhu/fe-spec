@@ -1,0 +1,9 @@
+{
+  "name": "fe-markdownlint-config",
+  "version": "0.0.0",
+  "description": "markdownlint 文档规范",
+  "author": "Shea",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json"
+}
