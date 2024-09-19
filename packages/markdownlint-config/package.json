@@ -10,8 +10,5 @@
     "type": "git",
     "url": "git+https://github.com/SheaZhu/fe-spec.git"
   },
-  "bugs": {
-    "url": "https://github.com/SheaZhu/fe-spec/issues"
-  },
   "gitHead": "762c5b730ef0402022a78695080bee63f996bbef"
 }
