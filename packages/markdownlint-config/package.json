@@ -13,9 +13,5 @@
   "bugs": {
     "url": "https://github.com/SheaZhu/fe-spec/issues"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org"
-  },
-  "gitHead": "ef39b4e46f9750b65cca8395910352302ea07797"
+  "gitHead": "762c5b730ef0402022a78695080bee63f996bbef"
 }
