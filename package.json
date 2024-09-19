@@ -26,8 +26,8 @@
     "markdownlint":"0.35.0",
     "markdownlint-cli":"0.41.0",
     "@commitlint/cli":"19.5.0",
-    "vue-template-compiler": "^2.7.14",
-   "vuepress": "^1.9.9",
+    "vue-template-compiler": "2.7.16",
+    "vuepress": "^1.9.9",
     "vuepress-plugin-one-click-copy": "^1.0.2",
     "vuepress-plugin-zooming": "^1.1.7"
   },
