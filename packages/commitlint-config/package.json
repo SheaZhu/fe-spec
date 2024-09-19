@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   "dependencies": {
     "conventional-changelog-conventionalcommits": "8.0.0"
   },
-  "gitHead": "961cac5d132a17ed24df269489ab02ccc5410865"
+  "gitHead": "0af31ac534db46f604d74f2472cfd41492441a3f"
 }

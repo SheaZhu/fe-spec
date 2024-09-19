@@ -10,5 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/SheaZhu/fe-spec.git"
   },
-  "gitHead": "961cac5d132a17ed24df269489ab02ccc5410865"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "gitHead": "0af31ac534db46f604d74f2472cfd41492441a3f"
 }
