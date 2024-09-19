@@ -21,15 +21,15 @@
     "conventional-changelog-conventionalcommits": "8.0.0"
   },
   "devDependencies": {
-    "lerna": "8.1.8",
-    "husky": "9.1.6",
+    "husky": "^8.0.3",
+    "lerna": "^6.6.2",
     "markdownlint":"0.35.0",
     "markdownlint-cli":"0.41.0",
     "@commitlint/cli":"19.5.0",
-    "vue": "3.5.6",
-    "vuepress": "^1.9.9",
-    "@vuepress/bundler-vite": "2.0.0-rc.7",
-    "@vuepress/theme-default": "1.9.10"
+    "vue-template-compiler": "^2.7.14",
+   "vuepress": "^1.9.9",
+    "vuepress-plugin-one-click-copy": "^1.0.2",
+    "vuepress-plugin-zooming": "^1.1.7"
   },
   "publishConfig": {
     "access": "public",
